@@ -224,15 +224,15 @@
     "nombre":"Rocío Sidgman",
     "ingreso":2015,
     "trabajos":[ {
-        "titulo": "Bolitas de Pollo", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/rosidgman/ev2/gh-pages/img/trabajo3.jpg"
+        "titulo": "Bipedestador", "descriptor":"Examen de Cad Cam con el profesor Luis Andueza en conjunto con Ivan Caro para el Hospital Dr. Exequiel González Cortés.", "imagen": "https://raw.githubusercontent.com/rosidgman/ev2/gh-pages/img/trabajo3.jpg"
     }
     ,
     {
-        "titulo": "Porun", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/rosidgman/ev2/gh-pages/img/trabajo2.jpg"
+        "titulo": "Porun", "descriptor":"Potenciador de aromas para Examen de Taller IV", "imagen": "https://raw.githubusercontent.com/rosidgman/ev2/gh-pages/img/trabajo2.jpg"
     }
     ,
     {
-        "titulo": "Kunstmann", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/rosidgman/ev2/gh-pages/img/trabajo1.jpg"
+        "titulo": "Kunstmann", "descriptor":"Gráfica standee para cerveza Kunstmann experimental x-1", "imagen": "https://raw.githubusercontent.com/rosidgman/ev2/gh-pages/img/trabajo1.jpg"
     }
     ]
 }
