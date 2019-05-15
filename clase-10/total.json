@@ -283,17 +283,17 @@
 		"ingreso": 2016,
 		"trabajos": [{
 				"titulo": "Sazon",
-				"descriptor": "blablabla…",
+				"descriptor": "Resideño del caldo Maggi",
 				"imagen": "https://raw.githubusercontent.com/IsidoraMorande/ev2/gh-pages/img/trabajo-1.jpg"
 			},
 			{
 				"titulo": "The Cookie Factory",
-				"descriptor": "blablabla…",
+				"descriptor": "Rediseño de la marca de galletas a domicilio The Cookie Factory",
 				"imagen": "https://raw.githubusercontent.com/IsidoraMorande/ev2/gh-pages/img/trabajo-2.jpg"
 			},
 			{
 				"titulo": "Al Seco",
-				"descriptor": "blablabla…",
+				"descriptor": "Gel energético para camioneros",
 				"imagen": "https://raw.githubusercontent.com/IsidoraMorande/ev2/gh-pages/img/trabajo-3.jpg"
 			}
 		]
@@ -303,17 +303,17 @@
 		"ingreso": 2015,
 		"trabajos": [{
 				"titulo": "Bolitas de Pollo",
-				"descriptor": "blablabla…",
+				"descriptor": "Examen de Cad Cam con el profesor Luis Andueza en conjunto con Ivan Caro para el Hospital Dr. Exequiel González Cortés.",
 				"imagen": "https://raw.githubusercontent.com/rosidgman/ev2/gh-pages/img/trabajo3.jpg"
 			},
 			{
 				"titulo": "Porun",
-				"descriptor": "blablabla…",
+				"descriptor": "Potenciador de aromas para Examen de Taller IV",
 				"imagen": "https://raw.githubusercontent.com/rosidgman/ev2/gh-pages/img/trabajo2.jpg"
 			},
 			{
 				"titulo": "Kunstmann",
-				"descriptor": "blablabla…",
+				"descriptor": "Gráfica standee para cerveza Kunstmann experimental x-1",
 				"imagen": "https://raw.githubusercontent.com/rosidgman/ev2/gh-pages/img/trabajo1.jpg"
 			}
 		]
