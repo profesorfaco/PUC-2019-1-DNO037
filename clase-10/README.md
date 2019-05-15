@@ -19,7 +19,7 @@ La clase anterior, se evaluó:
 - Hasta 1,0 por creación de portada donde se desplieguen los trabajos personales y ajuste de estilo del sitio completo
 
 
-Ese JSON tiene algunos problemas que corresponde corregir.
+Referencia: https://profesorfaco.github.io/dno037-2019/ev2/
 
 - - - - - - - 
 
