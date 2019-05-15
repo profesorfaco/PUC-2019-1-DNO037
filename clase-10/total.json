@@ -105,11 +105,11 @@
     "nombre": "Rosario González",
     "ingreso":2016,
     "trabajos": [ {
-        "titulo": "RAF l Diseño de emergencias l ", "descriptor":"Taller IV : Producto ", "imagen": "https://raw.githubusercontent.com/rosariogonzalez/Evaluacion_02/gh-pages/IMG/trabajo2.jpg"
+        "titulo": "RAF l Diseño de emergencias l ", "descriptor":"Taller IV - Producto ", "imagen": "https://raw.githubusercontent.com/rosariogonzalez/Evaluacion_02/gh-pages/IMG/trabajo2.jpg"
     }
     ,
     {
-        "titulo": "MAEZ l Diseño de marca para emprendimiento l ", "Taller V : Calidad I ":"blablabla…", "imagen": "https://raw.githubusercontent.com/rosariogonzalez/Evaluacion_02/gh-pages/IMG/trabajo1.jpg"
+        "titulo": "MAEZ l Diseño de marca para emprendimiento l ", "Taller V - Calidad I ":"blablabla…", "imagen": "https://raw.githubusercontent.com/rosariogonzalez/Evaluacion_02/gh-pages/IMG/trabajo1.jpg"
     }
     ,
     {
