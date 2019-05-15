@@ -207,15 +207,15 @@
     "nombre":"Isidora Morande",
     "ingreso": 2016,
     "trabajos": [ {
-        "titulo": "Sazon", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/IsidoraMorande/ev2/gh-pages/img/trabajo-1.jpg"
+        "titulo": "Sazon", "descriptor":"Resideño del caldo Maggi", "imagen": "https://raw.githubusercontent.com/IsidoraMorande/ev2/gh-pages/img/trabajo-1.jpg"
     }
     ,
     {
-        "titulo": "The Cookie Factory", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/IsidoraMorande/ev2/gh-pages/img/trabajo-2.jpg"
+        "titulo": "The Cookie Factory", "descriptor":"Rediseño de la marca de galletas a domicilio The Cookie Factory", "imagen": "https://raw.githubusercontent.com/IsidoraMorande/ev2/gh-pages/img/trabajo-2.jpg"
     }
     ,
     {
-        "titulo": "Al Seco", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/IsidoraMorande/ev2/gh-pages/img/trabajo-3.jpg"
+        "titulo": "Al Seco", "descriptor":"Gel energético para camioneros", "imagen": "https://raw.githubusercontent.com/IsidoraMorande/ev2/gh-pages/img/trabajo-3.jpg"
     }
     ]
 }
