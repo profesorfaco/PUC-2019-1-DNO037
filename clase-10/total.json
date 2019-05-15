@@ -71,15 +71,15 @@
     "nombre":"Debi Codriansky",
     "ingreso":2016,
     "trabajos":[ {
-        "titulo": "Animales", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/debic/ev2/master/img1.jpg"
+        "titulo": "Animales", "descriptor":"Trabajo Programación Creativa para el Diseño", "imagen": "https://raw.githubusercontent.com/debic/ev2/master/img/img1.jpg"
     }
     ,
     {
-        "titulo": "Luminaria", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/debic/ev2/master/img3.png"
+        "titulo": "Leyendas", "descriptor":"Examen Programación Creativa para el Diseño", "imagen": "https://raw.githubusercontent.com/debic/ev2/master/img/img3.png"
     }
     ,
     {
-        "titulo": "Peluches", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/debic/ev2/master/img2.jpg"
+        "titulo": "Peluches", "descriptor":"Examen Taller Calidad I", "imagen": "https://raw.githubusercontent.com/debic/ev2/master/img/img2.jpg"
     }
     ]
 }
