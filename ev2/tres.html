@@ -14,7 +14,7 @@
         <div class="row py-5">
             <div class="col-11 col-sm-10 mx-auto">
                 <h1>Isidora Amenabar</h1>
-                <p class="lead">Los que siguen son trabajos de diseño, que hicieron mis compañeras de Diseño y nuevos medios, un OPR que está a cargo de FACO (un tipo que nació hace <span id="muchotiempo"></span> días).</p>
+                <p class="lead">Los que siguen son trabajos de diseño, que hicieron otras de mis compañeras de Diseño y nuevos medios, un OPR que está a cargo de FACO (un tipo que nació hace <span id="muchotiempo"></span> días).</p>
                 <div id="cuestiones"></div>
             </div>
         </div>
@@ -49,13 +49,13 @@
 
         });
 
-        // Acá hago cálculo del tiempo pasado a una fecha actualizable… Así se resuelve el desafío que propuse María Cecilia
+        // Acá resuelvo el desafío propuesto a María Cecilia: pon tu edad en días, pero que sea actualizable…
 
         var fechaNacimiento = new Date('1980-06-03').getTime();
         var fechaHoy = new Date().getTime();
         var diferencia = fechaHoy - fechaNacimiento;
 
-        // Lo que hago es obtener la diferencia, en milisegundos, entre dos fechas, luego paso ese dato a segundos (*1000), los segundos a minutos (*60), los minutos a horas (*60) y las horas a días (*24). Y el resultado de esa operación es redondeado(Math.round)
+        // Lo que hago es obtener la diferencia, en milisegundos, entre dos fechas, luego paso esa diferencia a segundos (*1000), los segundos a minutos (*60), los minutos a horas (*60) y las horas a días (*24). Y el resultado de esa operación es redondeado(Math.round)
 
         document.getElementById("muchotiempo").innerHTML = Math.round(diferencia / (1000 * 60 * 60 * 24));
 
