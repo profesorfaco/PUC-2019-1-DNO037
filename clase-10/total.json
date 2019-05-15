@@ -156,15 +156,15 @@
     "nombre":"Francisca López de Heredia",
     "ingreso":2016,
     "trabajos":[ {
-        "titulo": "Diseño de producto", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/Franciscaldeh/ev2/gh-pages/img/img1.jpg"
+        "titulo": "Diseño de producto: Sazón", "descriptor":"Taller 5, Alvaro Sylleros: Rediseño de la tableta de caldo maggi", "imagen": "https://raw.githubusercontent.com/Franciscaldeh/ev2/gh-pages/img/img1.jpg"
     }
     ,
     {
-        "titulo": "Branding", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/Franciscaldeh/ev2/gh-pages/img/img2.jpg"
+        "titulo": "Branding", "descriptor":"Taller 6, Sergio Valderrama: Marca de helados de verdura para niños", "imagen": "https://raw.githubusercontent.com/Franciscaldeh/ev2/gh-pages/img/img2.jpg"
     }
     ,
     {
-        "titulo": "Modelado 3D", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/Franciscaldeh/ev2/gh-pages/img/img3.jpg"
+        "titulo": "Modelado 3D", "descriptor":"Dno por computación, Zinnia: Modelado 3D Canon EOS D30", "imagen": "https://raw.githubusercontent.com/Franciscaldeh/ev2/gh-pages/img/img3.jpg"
     }
     ]
 }
