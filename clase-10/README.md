@@ -14,11 +14,10 @@ La clase anterior, se evaluó:
 
 **El día de hoy, se evaluará lo siguiente:** 
 
-- Hasta 1,0 por creación de nueva página de portafolio del curso 
-- Hasta 1,0 por despliegue condicionado de ítems del portafolio
-- Hasta 1,0 por ajuste de menú y estilo del sitio completo
+- Hasta 1,0 por creación de página de portafolio del curso 
+- Hasta 1,0 por creación de página donde se despliegue los trabajos de una compañera
+- Hasta 1,0 por creación de portada donde se desplieguen los trabajos personales y ajuste de estilo del sitio completo
 
-El día de hoy partiremos desde un JSON, donde se contienen los trabajos que subieron la clase recién pasada: https://api.myjson.com/bins/15ss4q
 
 Ese JSON tiene algunos problemas que corresponde corregir.
 
