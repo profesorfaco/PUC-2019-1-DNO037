@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="es">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <title>@(·o·)@</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="row py-5">
+            <div class="col-11 col-sm-10 mx-auto">
+                <h1>Isidora Amenabar</h1>
+                <p class="lead">Los que siguen son trabajos de diseño, que hicieron mis compañeras de Diseño y nuevos medios, un OPR que está a cargo de FACO (un tipo que nació hace <span id="muchotiempo"></span> días).</p>
+                <div id="cuestiones"></div>
+            </div>
+        </div>
+    </div>
+    <select id="menu" onchange="location=this.value;">
+        <option value="index.html">uno</option>
+        <option value="dos.html">dos</option>
+        <option value="tres.html" selected>tres</option>
+    </select>
+    <!-- a la versión jquery.slim.min.js le faltan algunas cosas que necesitaremos-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+    <!-- después de jQuery viene Popper.js y luego Bootstrap JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <!-- después de ir por las bibliotecas, puedes aprovecharlas-->
+    <script>
+        $.getJSON("https://raw.githubusercontent.com/profesorfaco/dno037-2019/gh-pages/portfolio.json", function(curso) {
+
+            $.each(curso, function(i, integrante) {
+
+                if (i != 0 && i != 19) {
+
+                    $("#cuestiones").append("<h2 class='mt-5'>" + integrante.nombre + "</h2>");
+
+                    $.each(integrante.trabajos, function(i, trabajo) {
+                        $("#cuestiones").append("<h5 class='mt-5 mb-2'>" + trabajo.titulo + "</h5>").append("<img src='" + trabajo.imagen + "'class='img-fluid mt-3'>").append("<p class='my-3 px-1'>" + trabajo.descriptor + "</p>");
+                    });
+
+                }
+
+            });
+
+        });
+
+        // Acá hago cálculo del tiempo pasado a una fecha actualizable… Así se resuelve el desafío que propuse María Cecilia
+
+        var fechaNacimiento = new Date('1980-06-03').getTime();
+        var fechaHoy = new Date().getTime();
+        var diferencia = fechaHoy - fechaNacimiento;
+
+        // Lo que hago es obtener la diferencia, en milisegundos, entre dos fechas, luego paso ese dato a segundos (*1000), los segundos a minutos (*60), los minutos a horas (*60) y las horas a días (*24). Y el resultado de esa operación es redondeado(Math.round)
+
+        document.getElementById("muchotiempo").innerHTML = Math.round(diferencia / (1000 * 60 * 60 * 24));
+
+        // Para hacer que aparezca el número resultante en el párrafo, es que agregué allá arriba un span, con una identidad "muchotiempo"
+    </script>
+</body>
+
+</html>

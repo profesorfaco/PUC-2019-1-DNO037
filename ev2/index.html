@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="es">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <title>@(·o·)@</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="row py-5">
+            <div class="col-11 col-sm-10 mx-auto">
+                <h1>Isidora Amenabar</h1>
+                <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eget ipsum libero. Nullam vestibulum maximus dui, eu fringilla turpis dictum id. Proin vitae posuere massa. Sed sodales arcu sed tortor viverra pulvinar. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</p>
+                <div id="cuestiones"></div>
+            </div>
+        </div>
+    </div>
+    <select id="menu" onchange="location=this.value;">
+        <option value="index.html" selected>uno</option>
+        <option value="dos.html">dos</option>
+        <option value="tres.html">tres</option>
+    </select>
+    <!-- debes cambiar esta versión de jQuery-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+    <!-- después de jQuery viene Popper.js y luego Bootstrap JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <!-- después de ir por las bibliotecas, puedes aprovecharlas-->
+    <script>
+        $.getJSON("https://raw.githubusercontent.com/profesorfaco/dno037-2019/gh-pages/portfolio.json", function(curso) {
+
+            console.log(curso);
+
+            $.each(curso[0].trabajos, function(i, trabajo) {
+                $("#cuestiones").append("<h5 class='mt-5 mb-1'>" + trabajo.titulo + "</h5>").append("<img src='" + trabajo.imagen + "'class='img-fluid mt-3'>").append("<p class='my-3 px-1'>" + trabajo.descriptor + "</p>");
+            });
+
+        });
+    </script>
+</body>
+
+</html>
