@@ -23,17 +23,17 @@
 		"ingreso": 2015,
 		"trabajos": [{
 				"titulo": "Festival Olmue",
-				"descriptor": "blablabla…",
+				"descriptor": "Rediseño de identidad gráfica festival Olmué",
 				"imagen": "https://scontent-scl1-1.xx.fbcdn.net/v/t1.0-9/36682587_1550239321770806_1295061235359809536_n.jpg?_nc_cat=106&_nc_eui2=AeE_4J9ukTNnwBGiW7MZGPby6KEIshVt0645rZe40vEchilbHvoiHRyvMqhokQyDisttSrBNXFW_Rlv8I7UNTX5G0AV1dfS8OZGIkOSFraYVsQ&_nc_ht=scontent-scl1-1.xx&oh=68245d0b985627c4aad2f05272ed0fed&oe=5D2E5EDB"
 			},
 			{
 				"titulo": "DermaInk",
-				"descriptor": "blablabla…",
+				"descriptor": "Producto para el cuidado e higiene de un tatuaje",
 				"imagen": "https://scontent-scl1-1.xx.fbcdn.net/v/t1.0-9/18221594_1150106438450765_4463395746796456750_n.jpg?_nc_cat=103&_nc_eui2=AeEuIJTt4z_sqJubqR1cAN97CcZhGm5_Ayu7I-6Iv12B4iAoDwgj3q8ZKYD-jGm6KZIqVljiH7raL3T4FQ3O_-_bq75KUk1QScWW0wAZPDv04g&_nc_ht=scontent-scl1-1.xx&oh=24940d88b3439949b2e209baaa57fedf&oe=5D66AE76"
 			},
 			{
 				"titulo": "Chihiro",
-				"descriptor": "blablabla…",
+				"descriptor": "Diseño industrial con base a película El viaje de Chihiro",
 				"imagen": "https://scontent-scl1-1.xx.fbcdn.net/v/t1.0-9/17884630_1133961320065277_5401247408581404449_n.jpg?_nc_cat=105&_nc_eui2=AeGKHV-hHvtlxLfU8WYphkn77TAaOO6C7G0pkyCHcq1pipqp_lENgEEXXT9tYvYYezJJaIbwCxNOYboAbPYBdMyM0qT75xFqHB9czSB-mh3zCQ&_nc_ht=scontent-scl1-1.xx&oh=1f6bc658a0e6c2ea0eb9632f60ce4d2b&oe=5D74145D"
 			}
 		]
@@ -58,8 +58,6 @@
 			}
 		]
 	},
-
-
 	{
 		"nombre": "Josefina Carvalho",
 		"ingreso": 2014,
@@ -80,9 +78,6 @@
 			}
 		]
 	},
-
-
-
 	{
 		"nombre": "María Clark",
 		"ingreso": 2016,
@@ -109,17 +104,17 @@
 		"trabajos": [{
 				"titulo": "Animales",
 				"descriptor": "Trabajo Programación Creativa Para El Diseño",
-				"imagen": "https://raw.githubusercontent.com/debic/ev2/master/img/img1.jpg"
+				"imagen": "https://raw.githubusercontent.com/debic/ev2/gh-pages/img/img1.jpg"
 			},
 			{
 				"titulo": "Leyendas",
 				"descriptor": "Examen Programación Creativa Para El Diseño",
-				"imagen": "https://raw.githubusercontent.com/debic/ev2/master/img/img3.png"
+				"imagen": "https://raw.githubusercontent.com/debic/ev2/gh-pages/img/img3.png"
 			},
 			{
 				"titulo": "Peluches",
 				"descriptor": "Examen Taller Calidad I",
-				"imagen": "https://raw.githubusercontent.com/debic/ev2/master/img/img2.jpg"
+				"imagen": "https://raw.githubusercontent.com/debic/ev2/gh-pages/img/img2.jpg"
 			}
 		]
 	},
@@ -143,9 +138,6 @@
 			}
 		]
 	},
-
-
-
 	{
 		"nombre": "Gabriela Godoy",
 		"ingreso": 2014,
@@ -166,24 +158,23 @@
 			}
 		]
 	},
-
 	{
 		"nombre": "Rosario González",
 		"ingreso": 2016,
 		"trabajos": [{
 				"titulo": "RAF l Diseño de emergencias l ",
-				"descriptor": "blablabla…",
-				"imagen": "https://raw.githubusercontent.com/rosariogonzalez/Evaluacion_02/gh-pages/IMG/trabajo2.jpg"
+				"descriptor": "Taller IV - Producto",
+				"imagen": "https://raw.githubusercontent.com/rosariogonzalez/Evaluacion_02/gh-pages/img/trabajo2.jpg"
 			},
 			{
 				"titulo": "MAEZ l Diseño de marca para emprendimiento l ",
-				"descriptor": "blablabla…",
-				"imagen": "https://raw.githubusercontent.com/rosariogonzalez/Evaluacion_02/gh-pages/IMG/trabajo1.jpg"
+				"descriptor": "Taller V - Calidad I",
+				"imagen": "https://raw.githubusercontent.com/rosariogonzalez/Evaluacion_02/gh-pages/img/trabajo1.jpg"
 			},
 			{
 				"titulo": "E&M l Luminaria de Yeso l ",
-				"descriptor": "blablabla…",
-				"imagen": "https://raw.githubusercontent.com/rosariogonzalez/Evaluacion_02/gh-pages/IMG/trabajo3.jpg"
+				"descriptor": "Estructura y Materiales",
+				"imagen": "https://raw.githubusercontent.com/rosariogonzalez/Evaluacion_02/gh-pages/img/trabajo3.jpg"
 			}
 		]
 	},
@@ -192,17 +183,17 @@
 		"ingreso": 2014,
 		"trabajos": [{
 				"titulo": "Arboles de Chile",
-				"descriptor": "blablabla…",
+				"descriptor": "Identidad de marca de los árboles de Chile",
 				"imagen": "https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/f06c0955010741.5cd2faab82382.jpg"
 			},
 			{
 				"titulo": "mu",
-				"descriptor": "blablabla…",
+				"descriptor": "Logotipo diseñado para leche sin lactosa",
 				"imagen": "https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/2203eb56133767.5cd2fa1c063e3.jpg"
 			},
 			{
 				"titulo": "Dualidad",
-				"descriptor": "blablabla…",
+				"descriptor": "Afiche diseñado en base a la conceptualización de una canción",
 				"imagen": "https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/f2961c54987203.5cd2fa7f7a30f.jpg"
 			}
 		]
@@ -232,17 +223,17 @@
 		"ingreso": 2016,
 		"trabajos": [{
 				"titulo": "Diseño de producto",
-				"descriptor": "blablabla…",
+				"descriptor": "Taller 5, Alvaro Sylleros: Rediseño de la tableta de caldo maggi",
 				"imagen": "https://raw.githubusercontent.com/Franciscaldeh/ev2/gh-pages/img/img1.jpg"
 			},
 			{
 				"titulo": "Branding",
-				"descriptor": "blablabla…",
+				"descriptor": "Taller 6, Sergio Valderrama: Marca de helados de verdura para niños",
 				"imagen": "https://raw.githubusercontent.com/Franciscaldeh/ev2/gh-pages/img/img2.jpg"
 			},
 			{
 				"titulo": "Modelado 3D",
-				"descriptor": "blablabla…",
+				"descriptor": "Dno por computación, Zinnia: Modelado 3D Canon EOS D30",
 				"imagen": "https://raw.githubusercontent.com/Franciscaldeh/ev2/gh-pages/img/img3.jpg"
 			}
 		]
@@ -252,17 +243,17 @@
 		"ingreso": 2015,
 		"trabajos": [{
 				"titulo": "Magritte",
-				"descriptor": "blablabla…",
+				"descriptor": "Afiche desarrollado en Processing para el curso Media Lab. Profesores: Manuela Garretón y Mónica Bate",
 				"imagen": "https://raw.githubusercontent.com/vimarmie/ev2/gh-pages/img/foto-08.jpg"
 			},
 			{
 				"titulo": "Animanes",
-				"descriptor": "blablabla…",
+				"descriptor": "Material de estimulación para niños de jardines infantiles de Fundación CMPC para taller Calidad I. Profesores: Alberto González y Álvaro Sylleros.",
 				"imagen": "https://raw.githubusercontent.com/vimarmie/ev2/gh-pages/img/foto-02.jpg"
 			},
 			{
 				"titulo": "Waver",
-				"descriptor": "blablabla…",
+				"descriptor": "Dispositivo portable que simula el efecto corporal producido por la amplificación de un concierto, desarrollado para el taller Producto. Profesores: José Velez, Begoña Julia, Juan Cristobal Karich y Raimundo Molina.",
 				"imagen": "https://raw.githubusercontent.com/vimarmie/ev2/gh-pages/img/foto-03.jpg"
 			}
 		]
@@ -272,17 +263,17 @@
 		"ingreso": 2018,
 		"trabajos": [{
 				"titulo": "Tejidos",
-				"descriptor": "blablabla…",
-				"imagen": "https://images.ecosia.org/LblWy7n5kXnX1lI_LV86wyzGjQ0=/0x390/smart/https%3A%2F%2Fi.pinimg.com%2Foriginals%2F47%2F44%2Ff2%2F4744f2d6b7c118064cb249d9b6029f64.jpg"
+				"descriptor": "Macetero de macramé",
+				"imagen": "https://raw.githubusercontent.com/romartinparada/ev2/gh-pages/img/trabajo%203.jpg"
 			},
 			{
 				"titulo": "Materiales",
-				"descriptor": "blablabla…",
+				"descriptor": "Material didáctico para clases",
 				"imagen": "https://raw.githubusercontent.com/romartinparada/ev2/gh-pages/img/trabajo%201.jpg"
 			},
 			{
 				"titulo": "Ilustración",
-				"descriptor": "blablabla…",
+				"descriptor": "Historia ilustrada en instagram",
 				"imagen": "https://raw.githubusercontent.com/romartinparada/ev2/gh-pages/img/trabajo%202.jpg"
 			}
 		]
@@ -407,5 +398,4 @@
 			}
 		]
 	}
-
 ]
