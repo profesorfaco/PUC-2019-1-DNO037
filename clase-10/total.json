@@ -173,15 +173,15 @@
     "nombre": "Valentina Marmié",
     "ingreso": 2015,
     "trabajos":[ {
-        "titulo": "Magritte", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/vimarmie/ev2/gh-pages/img/foto-08.jpg"
+        "titulo": "Magritte", "descriptor":"Afiche desarrollado en Processing para el curso Media Lab. Profesores: Manuela Garretó y Mónica Bate.", "imagen": "https://raw.githubusercontent.com/vimarmie/ev2/gh-pages/img/foto-08.jpg"
     }
     ,
     {
-        "titulo": "Animanes", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/vimarmie/ev2/gh-pages/img/foto-02.jpg"
+        "titulo": "Animanes", "descriptor":"Material de estimulación para niños de jardines infantiles de Fundación CMPC para taller Calidad I. Profesores: Alberto González y Álvaro Sylleros.", "imagen": "https://raw.githubusercontent.com/vimarmie/ev2/gh-pages/img/foto-02.jpg"
     }
     ,
     {
-        "titulo": "Waver", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/vimarmie/ev2/gh-pages/img/foto-03.jpg"
+        "titulo": "Waver", "descriptor":"Dispositivo portable que simula el efecto corporal producido por la amplificación de un concierto, desarrollado para el taller Producto. Profesores: José Velez, Begoña Julia, Juan Cristobal Karich y Raimundo Molina.", "imagen": "https://raw.githubusercontent.com/vimarmie/ev2/gh-pages/img/foto-03.jpg"
     }
     ]
 }
