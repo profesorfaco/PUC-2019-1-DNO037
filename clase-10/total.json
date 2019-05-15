@@ -42,19 +42,33 @@
 		"nombre": "Alexa Beovic",
 		"ingreso": 2018,
 		"trabajos": [{
-				"titulo": "Perro",
-				"descriptor": "blablabla…",
-				"imagen": "https://images.clarin.com/2019/01/19/BHaslG6vz_1256x620__1.jpg"
+
+				"titulo": "Taller 2",
+
+				"descriptor": "Examen Taller Interacción, segundo semestre 2018",
+
+				"imagen": "https://raw.githubusercontent.com/alexabeovic/ev2/gh-pages/img/perro.jpg"
+
 			},
+
 			{
-				"titulo": "Gato",
-				"descriptor": "blablabla…",
-				"imagen": "https://i.pinimg.com/originals/f3/bd/84/f3bd8497e15399201b634714ec5ed390.jpg"
+
+				"titulo": "MYP",
+
+				"descriptor": "Examen Modelos y Prototipos, segundo semestre 2018",
+
+				"imagen": "https://raw.githubusercontent.com/alexabeovic/ev2/gh-pages/img/gato.JPG"
+
 			},
+
 			{
-				"titulo": "Conejo",
-				"descriptor": "blablabla…",
-				"imagen": "https://misanimales.com/wp-content/uploads/2018/07/conejo-enano-caracteristicas.jpg"
+
+				"titulo": "Taller 1",
+
+				"descriptor": "Polera Introducción al Proyecto, primer semestre 2018",
+
+				"imagen": "https://raw.githubusercontent.com/alexabeovic/ev2/gh-pages/img/conejo.jpg"
+
 			}
 		]
 	},
