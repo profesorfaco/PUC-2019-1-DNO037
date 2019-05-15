@@ -1,6 +1,7 @@
 [{
 		"nombre": "Isidora Amenábar",
 		"ingreso": 2015,
+		"github": "https://github.com/imamenabar/",
 		"trabajos": [{
 				"titulo": "Las Montañas que Llevamos Dentro",
 				"descriptor": "Diseño de tapas y portadillas de libro 'Las Montañas que llevamos dentro' de Hernán Leal. Realizado en conjunto con Estudio Vicencio como practicante de diseño en 2018.",
@@ -21,6 +22,7 @@
 	{
 		"nombre": "Camila Andrades",
 		"ingreso": 2015,
+		"github": "https://github.com/Camianmu/",
 		"trabajos": [{
 				"titulo": "Festival Olmue",
 				"descriptor": "Rediseño de identidad gráfica festival Olmué",
@@ -41,6 +43,7 @@
 	{
 		"nombre": "Alexa Beovic",
 		"ingreso": 2018,
+		"github": "https://github.com/alexabeovic/",
 		"trabajos": [{
 				"titulo": "Taller 2",
 				"descriptor": "Examen Taller Interacción, segundo semestre 2018",
@@ -61,6 +64,7 @@
 	{
 		"nombre": "Josefina Carvalho",
 		"ingreso": 2014,
+		"github": "https://github.com/josefinacarvalho",
 		"trabajos": [{
 				"titulo": "Ilustración León Danza de los Leones Chinos",
 				"descriptor": "Ilustración realizada probando el programa Procreate",
@@ -81,6 +85,7 @@
 	{
 		"nombre": "María Clark",
 		"ingreso": 2016,
+		"github": "https://github.com/mariaignaciaclark/",
 		"trabajos": [{
 				"titulo": "Acuarelas",
 				"descriptor": "Curso Acuarelas y Tintas",
@@ -101,6 +106,7 @@
 	{
 		"nombre": "Debi Codriansky",
 		"ingreso": 2016,
+		"github": "https://github.com/debic/",
 		"trabajos": [{
 				"titulo": "Animales",
 				"descriptor": "Trabajo Programación Creativa Para El Diseño",
@@ -121,6 +127,7 @@
 	{
 		"nombre": "María García-Huidobro",
 		"ingreso": 2016,
+		"github": "https://github.com/marigarciahuidobro",
 		"trabajos": [{
 				"titulo": "RAF-TALLER 4",
 				"descriptor": "examen emergencias taller producto",
@@ -141,6 +148,7 @@
 	{
 		"nombre": "Gabriela Godoy",
 		"ingreso": 2014,
+		"github": "https://github.com/gabrielagodoy",
 		"trabajos": [{
 				"titulo": "Pangea",
 				"descriptor": "Trabajo realizado en Taller V, con Jordanna de La Hoz y Elsa Mora. Profesoras: Soledad Hoces De La Guardia y Elena Alfaro",
@@ -161,6 +169,7 @@
 	{
 		"nombre": "Rosario González",
 		"ingreso": 2016,
+		"github": "https://github.com/rosariogonzalez",
 		"trabajos": [{
 				"titulo": "RAF l Diseño de emergencias l ",
 				"descriptor": "Taller IV - Producto",
@@ -181,6 +190,7 @@
 	{
 		"nombre": "Sofia Hinostroza",
 		"ingreso": 2014,
+		"github": "https://github.com/Sofiahm",
 		"trabajos": [{
 				"titulo": "Arboles de Chile",
 				"descriptor": "Identidad de marca de los árboles de Chile",
@@ -201,6 +211,7 @@
 	{
 		"nombre": "Francisca Kegevic",
 		"ingreso": 2017,
+		"github": "https://github.com/fkegevic",
 		"trabajos": [{
 				"titulo": "silla",
 				"descriptor": "Diseño de una silla que vende la multitienda Ripley a $49.990",
@@ -221,6 +232,7 @@
 	{
 		"nombre": "Francisca López de Heredia",
 		"ingreso": 2016,
+		"github": "https://github.com/Franciscaldeh",
 		"trabajos": [{
 				"titulo": "Diseño de producto",
 				"descriptor": "Taller 5, Alvaro Sylleros: Rediseño de la tableta de caldo maggi",
@@ -241,6 +253,7 @@
 	{
 		"nombre": "Valentina Marmié",
 		"ingreso": 2015,
+		"github": "https://github.com/vimarmie",
 		"trabajos": [{
 				"titulo": "Magritte",
 				"descriptor": "Afiche desarrollado en Processing para el curso Media Lab. Profesores: Manuela Garretón y Mónica Bate",
@@ -261,6 +274,7 @@
 	{
 		"nombre": "Rocío Martín",
 		"ingreso": 2018,
+		"github": "https://github.com/romartinparada",
 		"trabajos": [{
 				"titulo": "Tejidos",
 				"descriptor": "Macetero de macramé",
@@ -281,6 +295,7 @@
 	{
 		"nombre": "Isidora Morande",
 		"ingreso": 2016,
+		"github": "https://github.com/IsidoraMorande",
 		"trabajos": [{
 				"titulo": "Sazon",
 				"descriptor": "Resideño del caldo Maggi",
@@ -301,6 +316,7 @@
 	{
 		"nombre": "Rocío Sidgman",
 		"ingreso": 2015,
+		"github": "https://github.com/rosidgman",
 		"trabajos": [{
 				"titulo": "Bolitas de Pollo",
 				"descriptor": "Examen de Cad Cam con el profesor Luis Andueza en conjunto con Ivan Caro para el Hospital Dr. Exequiel González Cortés.",
@@ -321,6 +337,7 @@
 	{
 		"nombre": "Elena Silva",
 		"ingreso": 2018,
+		"github": "https://github.com/esilva99",
 		"trabajos": [{
 				"titulo": "Ilustración",
 				"descriptor": "Ilustración digital 2019",
@@ -341,6 +358,7 @@
 	{
 		"nombre": "Vania Solis",
 		"ingreso": 2015,
+		"github": "https://github.com/vaniacarolina",
 		"trabajos": [{
 				"titulo": "Voces Urbanas",
 				"descriptor": "Libro objeto que se realizó en el Taller Mercado I, profesora Ximena Ulibarri",
@@ -361,6 +379,7 @@
 	{
 		"nombre": "Maria Cecilia Suárez",
 		"ingreso": 2016,
+		"github": "https://github.com/MariaCeciliaSuarez",
 		"trabajos": [{
 				"titulo": "Blake",
 				"descriptor": "Ilustración de personaje creado para webcomic con la aplicación de Procreate utilizando una paleta de colores sacada de una playa para expresar diversión y júbilo que es lo que representa este personaje.",
@@ -381,6 +400,7 @@
 	{
 		"nombre": "Dominga Zañartu",
 		"ingreso": 2016,
+		"github": "https://github.com/domingazanartu/",
 		"trabajos": [{
 				"titulo": "La guacha",
 				"descriptor": "Taller III, Interacción",
