@@ -122,15 +122,15 @@
     "nombre": "Sofia Hinostroza",
     "ingreso": 2014,
     "trabajos":[ {
-        "titulo": "Arboles de Chile", "descriptor":"blablabla…", "imagen": "https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/f06c0955010741.5cd2faab82382.jpg"
+        "titulo": "Arboles de Chile", "descriptor":"Identidad de marca de los árboles de Chile", "imagen": "https://raw.githubusercontent.com/Sofiahm/ev2/gh-pages/img/arboles.jpg"
     }
     ,
     {
-        "titulo": "mu", "descriptor":"blablabla…", "imagen": "https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/2203eb56133767.5cd2fa1c063e3.jpg"
+        "titulo": "mu", "descriptor":"Logotipo diseñado para leche sin lactosa", "imagen": "https://github.com/Sofiahm/ev2/blob/gh-pages/img/mu.jpg"
     }
     ,
     {
-        "titulo": "Dualidad", "descriptor":"blablabla…", "imagen": "https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/f2961c54987203.5cd2fa7f7a30f.jpg"
+        "titulo": "Dualidad", "descriptor":"Afiche diseñado en base a la conceptualización de una canción", "imagen": "https://github.com/Sofiahm/ev2/blob/gh-pages/img/dualidad.jpg"
     }
     ]
 }
