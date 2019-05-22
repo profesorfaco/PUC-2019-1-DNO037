@@ -50,7 +50,7 @@ Se proyecta la siguiente organización de las clases durante el semestre:
 
 **[Clase 10 → Miércoles 15 de mayo](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-10) →  Evaluación (parte 2 de 2)**
 
-[Clase 11 → Miércoles 22 de mayo](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-11) → PHP → Servidor, variables y ciclos (para clase es necesario tener MAMP instalado en sus computadores)
+[Clase 11 → Miércoles 22 de mayo](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-11) → JS → otras bibliotecas de JavaScript: PapaParse.js, D3.js, P5.js, etc…
 
 [Clase 12 → Miércoles 29 de mayo](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-12) → Funciones de PHP (para clase es necesario tener MAMP instalado en sus computadores)
 
