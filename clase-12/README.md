@@ -2,10 +2,11 @@
 
 ### Miércoles 29 de mayo → PHP → Personal Home Page o Pre HTML Process.
 
-Lo que distingue a PHP de Javascript es que el código del primero es ejecutado del lado del servidor, generando HTML y enviándolo al cliente. El cliente recibirá el resultado de ejecutar el script, aunque no se sabrá el código subyacente que era. 
+PHP es un lenguaje de programación para web, como Javascript. Pero el código del primero es ejecutado del lado del servidor, generando HTML y enviándolo al cliente. PHP no manipula el DOM, sino que produce el código fuente que se entregará al cliente. 
 
+Como en todo lenguaje de programación, la introducción más útil está en reconocer las particularidades de las variables y las funciones en el lenguaje.
 
-#### 2. Variables
+#### 1. Variables
 
 Recordemos que, en programación, una variable está formada por un espacio en el sistema de almacenaje (memoria principal del computador) y un identificador asociado a dicho espacio. Este espacio contendrá una cantidad conocida o desconocida de datos, que pueden ir variando en la medida que el programa se ejecuta (y esta es la razón del nombre).
 
@@ -71,12 +72,13 @@ Array
 
 En esta caso, si queremos que nos entregue el sueño más profundo (el sueño en la ciudad abandonada), le tenemos que solicitar un `$inception["cuarto"]`.
 
-#### 3. Funciones
+#### 2. Funciones
 
 Este lenguaje nos ofrece [diversas funciones](https://www.php.net/manual/en/funcref.php) que se ejecutan del lado del servidor. Con ellas podríamos:
 
 - imprimir el resultado de una consulta `<?php echo(…)?>` o `<?php print(…)?>`
 - incluir partes de unos archivos en otros `<?php include(…)?>`
+- obtener un número aleatorio `<?php rand(…)?>`
 - obtener la fecha del servidor `<?php date(…)?>`
 - obtener [información desde formularios](https://www.php.net/manual/es/tutorial.forms.php) `<?php $_POST[…]?>` 
 - detectar la página que se está vistando, obtener la IP de quien visita la página, etc. 
